@@ -1,2 +1,2 @@
 # ai-text-classification
-AI Text Classification
+SMS/Email Spam Detection using Naive Bayes and NLP
